@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdullah-moiz
 - 👀 I’m interested in web development information
-- 🌱 I’m currently learning web development backend
+- 🌱 I’m currently learning MERN Stack Development
 - 💞️ I’m looking to collaborate on frontend web development
 - 📫 How to reach me just message me on my email
 
