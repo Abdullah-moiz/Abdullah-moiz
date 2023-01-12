@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NEXT JS**
 
-- 👨‍💻 All of my projects are available at [github.com/Abdullah-moiz](github.com/Abdullah-moiz)
+- 👨‍💻 All of my projects are available at My Github
 
 - 💬 Ask me about **react , node , javaScript**
 
