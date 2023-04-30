@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at My Github
 
