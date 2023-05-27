@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at My Github
 
-- 💬 Ask me about **react , node , javaScript**
+- 💬 Ask me about **reactjs , Nextjs,nodejs, javaScript**
 
 - 📫 How to reach me **mrmoiz.dev@gmail.com**
 
