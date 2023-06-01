@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Blockchain **
 
 - 👨‍💻 All of my projects are available at My Github
 
