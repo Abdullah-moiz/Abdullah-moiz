@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-moiz&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-moiz" /> </p>
 
 
-
-- 🌱 I’m currently learning **Blockchain**
-
 - 👨‍💻 All of my projects are available at My Github
 
 - 💬 Ask me about **reactjs , Nextjs,nodejs, javaScript**
