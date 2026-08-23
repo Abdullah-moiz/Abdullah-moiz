@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at My Github
 
-- 💬 Ask me about **reactjs , Nextjs,nodejs, javaScript**
+- 💬 Ask me about **AI, RAG , LANGCHAIN , LLMs , REACT , NEXT , NODE.js , Typescript , Microservices , EKS , K8s**
 
 - 📫 How to reach me **mrmoiz.dev@gmail.com**
 
